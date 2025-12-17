@@ -1,0 +1,5 @@
+{
+  "name": "Rhythm Flow",
+  "description": "A lightweight, browser-based rhythm game where you can upload your own music. The system automatically detects beats and generates a playable chart.",
+  "requestFramePermissions": []
+}
